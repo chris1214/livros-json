@@ -1,0 +1,42 @@
+{
+  "livros": [
+    {
+      "id": 1,
+      "title": "Mitologia Nordica",
+      "idioma": "PT"
+    },
+    {
+      "title": "Sera?",
+      "idioma": "PT",
+      "id": 9
+    },
+    {
+      "title": "Mais um Livro",
+      "idioma": "EN",
+      "id": 15
+    },
+    {
+      "title": "Outro livro",
+      "idioma": "ES",
+      "id": 16
+    },
+    {
+      "title": "Thor",
+      "idioma": "PT",
+      "id": 17
+    },
+    {
+      "title": "Um novo Titulo",
+      "idioma": "ES",
+      "id": 18
+    },
+    {
+      "title": "UM novo Titulo parte 2",
+      "idioma": "PT",
+      "id": 19
+    }
+  ],
+  "livrosPT": [],
+  "livrosEN": [],
+  "livrosES": []
+}
